@@ -1,0 +1,21 @@
+.odd {
+    background-color: #F08080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #69e66f;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* in the fourth, i actually could use third's class to reduce duplicated code */
